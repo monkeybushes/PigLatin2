@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=6112283A
+eax=00000000 ebx=00000001 ecx=80028748 edx=00000000 esi=0000002E edi=00000069
+ebp=00000000 esp=00284A0C program=C:\Users\Miguel\Documents\NetBeansProjects\Pig Latin2\piggy.exe, pid 32448, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+End of stack trace
